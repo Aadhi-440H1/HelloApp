@@ -1,6 +1,5 @@
 package org.example;
 
-import java.sql.SQLOutput;
 
 public class HelloApp {
     public static void main(String[] args) {
